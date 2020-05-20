@@ -1,3 +1,5 @@
+package javaPractice;
+
 public class Finra {
 
     //Write a program that prints out the numbers from 1 to 30 but for the numbers which are a multiple

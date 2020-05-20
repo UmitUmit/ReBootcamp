@@ -1,3 +1,5 @@
+package javaPractice;
+
 public class PasswordValid {
 
     public static void main(String[] args) {

@@ -6,7 +6,11 @@
 
     <groupId>com.cybertek</groupId>
     <artifactId>ReBootcamp</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>java-review-project</module>
+    </modules>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
